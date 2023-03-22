@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development for now.
 - 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me through e-mail (cvetic.aleksa02@gmail.com)
 
 <!---
 AleksaCvetic/AleksaCvetic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
